@@ -19,4 +19,3 @@
 
 ## Мой друг на Git Hub 
 - [@OLYAPET] (https://github.com/OLYAPET)
-    
