@@ -18,5 +18,5 @@
 
 
 ## Мой друг на Git Hub 
-- [@OLYAPET]
+[@OLYAPET]
     
