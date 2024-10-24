@@ -18,4 +18,4 @@
 
 
 ## Мой друг на Git Hub 
-- [@OLYAPET] (https://github.com/OLYAPET)
+[@OLYAPET](https://github.com/OLYAPET)
