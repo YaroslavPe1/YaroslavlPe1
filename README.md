@@ -17,5 +17,5 @@
 - [x] Переписать на C парсер, лексер.
 
 
-## Мой друг на Git Hub 
+
 [@OLYAPET](https://github.com/OLYAPET)
